@@ -1,6 +1,4 @@
-# read-list
-
-## JavaScript
+### JavaScript
 
 - Done 2016/3/7 ~~https://github.com/osteele/functional-javascript/blob/master/functional.js~~
 - Done 2016/3/7 ~~https://github.com/osteele/functional-javascript/blob/master/to-function.js~~
