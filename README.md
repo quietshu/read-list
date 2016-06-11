@@ -7,3 +7,4 @@
 - Done 2015 ~~https://github.com/tj/co/blob/master/index.js~~
     - Using (ES6 native) yield to avoid any CPS transform, or promises.
     - See also: https://github.com/quietshu/delay
+- https://github.com/tensorflow/playground/blob/master/nn.ts
