@@ -9,6 +9,7 @@
     - See also: https://github.com/quietshu/delay
 - https://github.com/tensorflow/playground/blob/master/nn.ts
 - About Flux
-    - invariant: https://github.com/facebook/react/blob/v0.13.3/src/vendor/core/invariant.js
-    - dispatcher: https://github.com/facebook/flux/blob/master/src/Dispatcher.js
+    - ~~invariant: https://github.com/facebook/react/blob/v0.13.3/src/vendor/core/invariant.js~~
+    - ~~dispatcher: https://github.com/facebook/flux/blob/master/src/Dispatcher.js~~
+    - interesting implementations of __defered waitFor & dispatcher class__
     - see also: alt, flummox, nextminds/FluxRecorder
