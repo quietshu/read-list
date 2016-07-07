@@ -8,3 +8,7 @@
     - Using (ES6 native) yield to avoid any CPS transform, or promises.
     - See also: https://github.com/quietshu/delay
 - https://github.com/tensorflow/playground/blob/master/nn.ts
+- About Flux
+    - invariant: https://github.com/facebook/react/blob/v0.13.3/src/vendor/core/invariant.js
+    - dispatcher: https://github.com/facebook/flux/blob/master/src/Dispatcher.js
+    - see also: alt, flummox, nextminds/FluxRecorder
