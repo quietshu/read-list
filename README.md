@@ -15,6 +15,10 @@
     - see also: alt, flummox, nextminds/FluxRecorder
 - Centrialized data store
     - https://github.com/moreartyjs/moreartyjs
+        - ~~https://github.com/moreartyjs/moreartyjs/blob/master/src/Morearty.js~~
+        - `comp.forceUpdate`
+        - `updateQueue`
+        - `stop`
     
 ### TypeScript, CoffeeScript
 - Hands on TS
