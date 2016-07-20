@@ -15,6 +15,8 @@
     - see also: alt, flummox, nextminds/FluxRecorder
 - Centrialized data store
     - https://github.com/moreartyjs/moreartyjs
+    
+### TypeScript, CoffeeScript
 - Hands on TS
     - https://github.com/Microsoft/TypeScriptSamples
     - 2016/3 ~~_TypeScript Reveal_~~
