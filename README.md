@@ -13,7 +13,7 @@
     - ~~dispatcher: https://github.com/facebook/flux/blob/master/src/Dispatcher.js~~
     - interesting implementations of __defered waitFor & dispatcher class__
     - see also: alt, flummox, nextminds/FluxRecorder
-    - https://github.com/kristoferjoseph/redeux/blob/master/index.js
+    - ~~https://github.com/kristoferjoseph/redeux/blob/master/index.js~~
 - Centrialized data store
     - https://github.com/moreartyjs/moreartyjs
         - ~~https://github.com/moreartyjs/moreartyjs/blob/master/src/Morearty.js~~
